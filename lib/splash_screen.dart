@@ -155,7 +155,7 @@ class _SplashScreenState extends State<SplashScreen> {
                               //TO SHow time in every container and +1 will  increase
                               "${index + 1} AM ".text.gray700.make(),
                               Image.asset(
-                                "lib/images/a1.png",
+                                "lib/images/a2.png",
                                 width: 90,
                               ),
                               "38$degree  ".text.gray200.make(),
